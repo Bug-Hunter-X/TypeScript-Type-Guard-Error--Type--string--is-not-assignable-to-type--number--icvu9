@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error related to type guards not fully preventing type mismatches. The `bug.ts` file shows the error, and `bugSolution.ts` provides a fix using type assertion or alternative function design.
